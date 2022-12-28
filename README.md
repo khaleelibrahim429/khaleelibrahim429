@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khaleelibrahim429
+- 👋 Hi, I’m Khaleel Ibrahim
 - 👀 I’m interested in Coding, Coding and Coding..!!
 - 🌱 I’m currently learning devops technologies
 
